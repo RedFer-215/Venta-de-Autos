@@ -230,6 +230,9 @@
         <source src="soy ... veloz !!!.wmv.mp4" type="video/mp4">
         Tu navegador no soporta la etiqueta de video.
       </video>
+      <audio controls autoplay loop>
+        <source src="soy ... veloz !!!.wmv.mp4" type="audio/mp3">
+      </audio>
     </div>
   </header>
 
@@ -251,7 +254,9 @@
     </section>
 
     <section class="tecnologia" id="tecnologia">
-      <h2>Tecnología Avanzada</h2>
+      <h2>Tecnología Avanzada</h2> 
+      <p>Los autos eléctricos no solo se benefician del uso de fuentes de energía más limpias, sino que también incorporan tecnologías avanzadas en términos de eficiencia energética, autonomía y diseño. Además, muchas de estas soluciones están complementadas por sistemas de recarga rápida y el impulso de energías renovables, como la solar y la eólica, lo que incrementa su sostenibilidad. De esta manera, los vehículos eléctricos representan una parte crucial de la transición hacia un futuro más verde y sostenible, al reducir la dependencia de recursos no renovables y promover un entorno más saludable para las futuras generaciones.
+      </p>
       <p>Con tecnología de punta, los autos Nova Cars están preparados para un rendimiento sin igual.</p>
     </section>
 
@@ -279,6 +284,10 @@
 
   <footer>
     <p>© 2025 Nova Cars. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>
+
   </footer>
 </body>
 </html>
